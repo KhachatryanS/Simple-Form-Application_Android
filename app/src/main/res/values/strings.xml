@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DetailsForm</string>
+    <string name="detailsFormText">DETAILS FORM</string>
+    <string name="firstNameText">*First Name</string>
+    <string name="lastNameText">*Last Name</string>
+    <string name="genderText">*Gender</string>
+    <string name="femaleText">Female</string>
+    <string name="maleText">Male</string>
+    <string name="submitLabel">SUBMIT</string>
+</resources>
